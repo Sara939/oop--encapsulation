@@ -75,8 +75,12 @@ let carsarray= [car1, car2, car3, car4];
 console.log(vehicle.reciveObjectarray(carsarray));
 
 
+creatingobject(){
+    wheelsnum= 
+     angine
+      color
+    return printname();
+}
 
-
-
-
+// console.log(printname());
 
